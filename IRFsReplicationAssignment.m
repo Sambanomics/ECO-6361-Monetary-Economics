@@ -142,7 +142,7 @@ ylabel('Deviation');
 
 
 
-% Adjust layout for better spacing
+% Adjusting the layout for better spacing
 sgtitle('Impulse Response Functions to a Technology Shock');
 
 
@@ -299,7 +299,7 @@ ylabel('Deviation');
 
 
 
-% Adjust layout for better spacing
+% Adjusting the layout for better spacing
 sgtitle('Impulse Response Functions to a Investment Specific Technology Shock');
 
 
@@ -448,7 +448,7 @@ ylabel('Deviation');
 
 
 
-% Adjust layout for better spacing
+% Adjusting the layout for better spacing
 sgtitle('Impulse Response Functions to a monetary policy Shock');
 
 
